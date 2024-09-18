@@ -1,1 +1,1 @@
-# All Versions of our Scripts are checked here.
+# Moved to https://github.com/maxifaxipaxi-new/mfpscripts-versions
